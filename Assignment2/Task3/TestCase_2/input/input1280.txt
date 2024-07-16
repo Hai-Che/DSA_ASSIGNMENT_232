@@ -1,0 +1,7 @@
+mnist.csv
+toRow=9
+fromRow=-1
+toColFeature=4
+fromColFeature=-1
+K_knn=49
+test_size=0.779

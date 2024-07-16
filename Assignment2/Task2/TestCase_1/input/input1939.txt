@@ -1,0 +1,440 @@
+k=2
+nearestNeighbour (4,4)
+inorderTraversal
+insert (6,4)
+inorderTraversal
+kNearestNeighbour 6 (2,9)
+inorderTraversal
+clear
+buildTree 4
+(5,2) (2,4) (1,4) (9,1) 
+inorderTraversal
+clear
+buildTree 10
+(5,10) (3,4) (7,2) (5,1) (6,6) (2,1) (3,6) (2,7) (6,6) (6,1) 
+inorderTraversal
+insert (6,5)
+inorderTraversal
+insert (3,7)
+inorderTraversal
+search (3,4)
+inorderTraversal
+clear
+buildTree 6
+(10,9) (10,7) (4,3) (10,1) (4,1) (3,2) 
+inorderTraversal
+insert (7,4)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+insert (7,8)
+inorderTraversal
+kNearestNeighbour 9 (9,3)
+inorderTraversal
+kNearestNeighbour 5 (5,3)
+inorderTraversal
+insert (9,2)
+inorderTraversal
+clear
+buildTree 16
+(5,10) (4,10) (4,9) (9,8) (5,2) (5,5) (10,10) (6,9) (6,2) (7,10) (3,10) (1,3) (6,6) (8,9) (9,4) (3,7) 
+inorderTraversal
+nearestNeighbour (3,3)
+inorderTraversal
+insert (3,7)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+kNearestNeighbour 3 (5,2)
+inorderTraversal
+nearestNeighbour (10,8)
+inorderTraversal
+kNearestNeighbour 4 (7,2)
+inorderTraversal
+kNearestNeighbour 2 (10,4)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nearestNeighbour (2,9)
+inorderTraversal
+nearestNeighbour (4,8)
+inorderTraversal
+insert (1,10)
+inorderTraversal
+insert (10,2)
+inorderTraversal
+insert (2,5)
+inorderTraversal
+search (6,10)
+inorderTraversal
+remove (1,10)
+inorderTraversal
+insert (8,4)
+inorderTraversal
+insert (4,3)
+inorderTraversal
+remove (7,10)
+inorderTraversal
+insert (3,7)
+inorderTraversal
+insert (2,7)
+inorderTraversal
+insert (2,2)
+inorderTraversal
+insert (10,4)
+inorderTraversal
+nearestNeighbour (4,1)
+inorderTraversal
+insert (6,1)
+inorderTraversal
+insert (2,10)
+inorderTraversal
+insert (7,4)
+inorderTraversal
+insert (7,7)
+inorderTraversal
+insert (8,7)
+inorderTraversal
+search (6,6)
+inorderTraversal
+kNearestNeighbour 1 (9,5)
+inorderTraversal
+kNearestNeighbour 8 (3,2)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+nearestNeighbour (4,7)
+inorderTraversal
+insert (6,5)
+inorderTraversal
+insert (9,6)
+inorderTraversal
+insert (6,9)
+inorderTraversal
+kNearestNeighbour 1 (8,10)
+inorderTraversal
+insert (10,2)
+inorderTraversal
+insert (6,5)
+inorderTraversal
+insert (6,3)
+inorderTraversal
+nearestNeighbour (9,8)
+inorderTraversal
+kNearestNeighbour 9 (10,10)
+inorderTraversal
+kNearestNeighbour 2 (10,9)
+inorderTraversal
+insert (5,6)
+inorderTraversal
+kNearestNeighbour 1 (7,7)
+inorderTraversal
+nearestNeighbour (5,10)
+inorderTraversal
+nearestNeighbour (2,2)
+inorderTraversal
+remove (3,5)
+inorderTraversal
+insert (9,5)
+inorderTraversal
+remove (3,7)
+inorderTraversal
+nearestNeighbour (2,1)
+inorderTraversal
+clear
+buildTree 12
+(9,10) (1,1) (3,6) (5,5) (9,6) (4,4) (4,8) (5,7) (10,5) (5,7) (8,6) (8,1) 
+inorderTraversal
+insert (2,1)
+inorderTraversal
+remove (9,10)
+inorderTraversal
+clear
+buildTree 9
+(9,7) (3,2) (5,10) (3,2) (5,9) (2,1) (7,1) (5,6) (1,1) 
+inorderTraversal
+nearestNeighbour (1,10)
+inorderTraversal
+kNearestNeighbour 3 (7,1)
+inorderTraversal
+insert (4,7)
+inorderTraversal
+insert (3,3)
+inorderTraversal
+nearestNeighbour (6,9)
+inorderTraversal
+insert (8,6)
+inorderTraversal
+insert (1,6)
+inorderTraversal
+clear
+buildTree 3
+(2,9) (1,8) (10,4) 
+inorderTraversal
+nearestNeighbour (6,9)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+remove (10,4)
+inorderTraversal
+kNearestNeighbour 4 (8,3)
+inorderTraversal
+insert (5,6)
+inorderTraversal
+insert (6,1)
+inorderTraversal
+kNearestNeighbour 6 (9,10)
+inorderTraversal
+insert (7,4)
+inorderTraversal
+remove (7,4)
+inorderTraversal
+nearestNeighbour (5,3)
+inorderTraversal
+insert (1,8)
+inorderTraversal
+insert (4,9)
+inorderTraversal
+nearestNeighbour (4,6)
+inorderTraversal
+remove (6,1)
+inorderTraversal
+insert (5,3)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+kNearestNeighbour 5 (4,8)
+inorderTraversal
+nearestNeighbour (3,1)
+inorderTraversal
+clear
+buildTree 1
+(4,3) 
+inorderTraversal
+insert (10,4)
+inorderTraversal
+kNearestNeighbour 1 (4,5)
+inorderTraversal
+insert (3,5)
+inorderTraversal
+insert (9,9)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+insert (9,1)
+inorderTraversal
+insert (1,8)
+inorderTraversal
+insert (9,7)
+inorderTraversal
+remove (9,7)
+inorderTraversal
+insert (8,10)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+kNearestNeighbour 7 (5,8)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+nearestNeighbour (5,6)
+inorderTraversal
+remove (8,10)
+inorderTraversal
+clear
+buildTree 13
+(4,8) (2,10) (4,4) (4,8) (2,10) (1,9) (3,2) (5,5) (3,6) (10,2) (5,10) (2,1) (3,2) 
+inorderTraversal
+kNearestNeighbour 7 (4,1)
+inorderTraversal
+kNearestNeighbour 7 (2,2)
+inorderTraversal
+insert (2,4)
+inorderTraversal
+insert (3,4)
+inorderTraversal
+kNearestNeighbour 8 (9,3)
+inorderTraversal
+remove (4,4)
+inorderTraversal
+kNearestNeighbour 9 (4,3)
+inorderTraversal
+nearestNeighbour (2,5)
+inorderTraversal
+kNearestNeighbour 8 (5,9)
+inorderTraversal
+kNearestNeighbour 10 (2,5)
+inorderTraversal
+insert (5,8)
+inorderTraversal
+nearestNeighbour (6,8)
+inorderTraversal
+insert (1,6)
+inorderTraversal
+insert (8,5)
+inorderTraversal
+insert (10,8)
+inorderTraversal
+remove (5,10)
+inorderTraversal
+kNearestNeighbour 9 (4,2)
+inorderTraversal
+insert (7,6)
+inorderTraversal
+nearestNeighbour (1,9)
+inorderTraversal
+clear
+buildTree 18
+(10,3) (4,3) (8,5) (6,10) (10,5) (7,4) (7,6) (6,6) (3,1) (8,10) (4,2) (3,4) (1,5) (3,1) (10,1) (4,5) (3,9) (6,2) 
+inorderTraversal
+kNearestNeighbour 9 (6,3)
+inorderTraversal
+search (3,1)
+inorderTraversal
+kNearestNeighbour 8 (8,3)
+inorderTraversal
+remove (4,2)
+inorderTraversal
+insert (10,4)
+inorderTraversal
+kNearestNeighbour 6 (4,5)
+inorderTraversal
+insert (7,6)
+inorderTraversal
+kNearestNeighbour 10 (10,7)
+inorderTraversal
+insert (5,3)
+inorderTraversal
+kNearestNeighbour 1 (3,7)
+inorderTraversal
+insert (6,2)
+inorderTraversal
+kNearestNeighbour 7 (3,6)
+inorderTraversal
+remove (6,2)
+inorderTraversal
+remove (7,6)
+inorderTraversal
+insert (1,10)
+inorderTraversal
+clear
+buildTree 1
+(7,8) 
+inorderTraversal
+insert (3,6)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+clear
+buildTree 1
+(10,1) 
+inorderTraversal
+insert (1,3)
+inorderTraversal
+clear
+buildTree 15
+(1,3) (5,6) (10,8) (1,9) (6,7) (8,10) (1,10) (6,7) (9,10) (8,5) (1,1) (1,2) (6,2) (10,2) (10,3) 
+inorderTraversal
+search (1,9)
+inorderTraversal
+nearestNeighbour (8,5)
+inorderTraversal
+nearestNeighbour (3,9)
+inorderTraversal
+remove (9,10)
+inorderTraversal
+nearestNeighbour (6,5)
+inorderTraversal
+insert (9,10)
+inorderTraversal
+search (5,6)
+inorderTraversal
+kNearestNeighbour 4 (9,3)
+inorderTraversal
+nearestNeighbour (2,2)
+inorderTraversal
+insert (4,6)
+inorderTraversal
+insert (7,2)
+inorderTraversal
+kNearestNeighbour 9 (4,2)
+inorderTraversal
+nearestNeighbour (8,9)
+inorderTraversal
+remove (2,7)
+inorderTraversal
+insert (4,6)
+inorderTraversal
+remove (10,8)
+inorderTraversal
+insert (8,8)
+inorderTraversal
+insert (7,7)
+inorderTraversal
+kNearestNeighbour 3 (4,10)
+inorderTraversal
+insert (2,4)
+inorderTraversal
+insert (7,2)
+inorderTraversal
+insert (8,7)
+inorderTraversal
+remove (1,9)
+inorderTraversal
+kNearestNeighbour 2 (8,2)
+inorderTraversal
+insert (2,1)
+inorderTraversal
+insert (5,3)
+inorderTraversal
+insert (4,7)
+inorderTraversal
+insert (1,6)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+insert (7,3)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+clear
+buildTree 20
+(4,9) (10,1) (10,9) (3,4) (10,9) (3,10) (9,2) (3,10) (1,5) (1,4) (10,7) (8,3) (9,10) (6,4) (6,5) (10,8) (8,6) (7,7) (1,5) (3,10) 
+inorderTraversal
+insert (1,4)
+inorderTraversal
+nearestNeighbour (1,9)
+inorderTraversal
+insert (7,7)
+inorderTraversal
+kNearestNeighbour 9 (3,7)
+inorderTraversal
+kNearestNeighbour 7 (6,9)
+inorderTraversal
+clear
+buildTree 19
+(5,2) (4,10) (8,5) (9,9) (9,5) (9,8) (3,4) (6,1) (8,2) (3,10) (4,7) (6,5) (10,1) (9,3) (8,10) (1,6) (6,8) (5,3) (9,6) 
+inorderTraversal
+nearestNeighbour (1,9)
+inorderTraversal
+insert (4,5)
+inorderTraversal
+clear
+buildTree 11
+(1,10) (8,6) (9,4) (6,1) (8,7) (8,10) (10,6) (5,6) (10,4) (3,4) (3,6) 
+inorderTraversal
+kNearestNeighbour 4 (5,2)
+inorderTraversal
+nearestNeighbour (3,2)
+inorderTraversal
+insert (4,4)
+inorderTraversal
+clear
+buildTree 12
+(3,6) (5,6) (10,1) (3,9) (3,8) (7,8) (3,2) (1,10) (10,6) (7,4) (8,6) (1,7) 
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+preorderTraversal
+postorderTraversal
+clear

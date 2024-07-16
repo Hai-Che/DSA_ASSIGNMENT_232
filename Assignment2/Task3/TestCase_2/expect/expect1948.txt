@@ -1,0 +1,13 @@
+input + mnist.csv
+toRow=8
+fromRow=-1
+toColFeature=3
+fromColFeature=-1
+K_knn=39
+test_size=0.018
+------------------------------------
+y_pred
+label: 9 7 1 1 
+y_test
+label: 9 7 8 3 
+Accuracy: 0.5

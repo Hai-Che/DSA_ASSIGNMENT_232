@@ -1,0 +1,22 @@
+k=2
+insert (5,6)
+insert (2,2)
+insert (2,8)
+insert (7,3)
+insert (3,5)
+insert (8,1)
+insert (8,7)
+insert (9,6)
+nodeCount_height_leafCount
+inorderTraversal
+preorderTraversal
+postorderTraversal
+kNearestNeighbour 1 (0,0)
+kNearestNeighbour 2 (2,5)
+kNearestNeighbour 3 (5,5)
+kNearestNeighbour 4 (5,4)
+kNearestNeighbour 5 (8,6)
+kNearestNeighbour 1 (7,5)
+kNearestNeighbour 2 (10,8)
+kNearestNeighbour 2 (4,3)
+

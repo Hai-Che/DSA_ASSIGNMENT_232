@@ -1,0 +1,33 @@
+line 1: k=2
+line 2: insert (5,6)
+line 3: insert (2,2)
+line 4: insert (2,8)
+line 5: insert (7,3)
+line 6: insert (3,5)
+line 7: insert (8,1)
+line 8: insert (8,7)
+line 9: insert (9,6)
+line 10: nodeCount_height_leafCount
+nodeCount=8;height=4;leafCount=3
+line 11: inorderTraversal
+(2, 2) (2, 8) (3, 5) (5, 6) (8, 1) (7, 3) (8, 7) (9, 6) 
+line 12: preorderTraversal
+(5, 6) (2, 2) (2, 8) (3, 5) (7, 3) (8, 1) (8, 7) (9, 6) 
+line 13: postorderTraversal
+(3, 5) (2, 8) (2, 2) (8, 1) (9, 6) (8, 7) (7, 3) (5, 6) 
+line 14: kNearestNeighbour 1 (0,0)
+(2, 2)
+line 15: kNearestNeighbour 2 (2,5)
+(3, 5)(2, 8)
+line 16: kNearestNeighbour 3 (5,5)
+(5, 6)(3, 5)(7, 3)
+line 17: kNearestNeighbour 4 (5,4)
+(5, 6)(7, 3)(3, 5)(2, 2)
+line 18: kNearestNeighbour 5 (8,6)
+(9, 6)(8, 7)(5, 6)(7, 3)(8, 1)
+line 19: kNearestNeighbour 1 (7,5)
+(7, 3)
+line 20: kNearestNeighbour 2 (10,8)
+(9, 6)(8, 7)
+line 21: kNearestNeighbour 2 (4,3)
+(3, 5)(2, 2)

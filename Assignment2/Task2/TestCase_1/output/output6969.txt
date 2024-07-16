@@ -1,0 +1,7 @@
+line 1: k=2
+line 2: clear
+line 3: buildTree 6
+(4,4) (10,4) (3,9) (4,9) (3,8) (1,4) 
+line 4: inorderTraversal
+(1,4) (3,9) (3,8) (4,4) (10,4) (4,9) 
+line 5: clear

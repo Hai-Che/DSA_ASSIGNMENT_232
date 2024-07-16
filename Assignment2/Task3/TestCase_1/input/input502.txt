@@ -1,0 +1,18 @@
+k=1
+buildTree 9
+(1) (5) (9) (2) (3) (4) (5) (7) (8)
+inorderTraversal
+preorderTraversal
+nearestNeighbour (-8)
+nearestNeighbour (1)
+nearestNeighbour (2)
+nearestNeighbour (3)
+nearestNeighbour (4)
+nearestNeighbour (5)
+nearestNeighbour (6)
+nearestNeighbour (7)
+nearestNeighbour (8)
+nearestNeighbour (9)
+nearestNeighbour (12)
+
+

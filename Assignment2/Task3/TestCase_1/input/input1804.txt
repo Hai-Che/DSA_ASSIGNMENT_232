@@ -1,0 +1,422 @@
+k=1
+insert (9)
+inorderTraversal
+remove (1)
+inorderTraversal
+kNearestNeighbour 9 (3)
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (4)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+kNearestNeighbour 9 (1)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+kNearestNeighbour 6 (8)
+inorderTraversal
+kNearestNeighbour 1 (9)
+inorderTraversal
+insert (3)
+inorderTraversal
+clear
+buildTree 17
+(4) (6) (10) (10) (3) (8) (7) (10) (10) (1) (10) (2) (5) (5) (8) (1) (8) 
+inorderTraversal
+insert (5)
+inorderTraversal
+remove (6)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (3)
+inorderTraversal
+kNearestNeighbour 7 (5)
+inorderTraversal
+insert (5)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+insert (4)
+inorderTraversal
+kNearestNeighbour 10 (2)
+inorderTraversal
+insert (3)
+inorderTraversal
+clear
+buildTree 18
+(4) (9) (5) (6) (6) (8) (4) (7) (8) (4) (4) (8) (3) (5) (6) (3) (6) (3) 
+inorderTraversal
+nearestNeighbour (6)
+inorderTraversal
+insert (5)
+inorderTraversal
+clear
+buildTree 13
+(10) (7) (7) (3) (10) (6) (4) (5) (1) (10) (9) (3) (8) 
+inorderTraversal
+kNearestNeighbour 10 (4)
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (10)
+inorderTraversal
+kNearestNeighbour 2 (7)
+inorderTraversal
+kNearestNeighbour 10 (7)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+preorderTraversal
+inorderTraversal
+kNearestNeighbour 1 (10)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+remove (10)
+inorderTraversal
+insert (9)
+inorderTraversal
+insert (6)
+inorderTraversal
+search (6)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+insert (5)
+inorderTraversal
+insert (9)
+inorderTraversal
+clear
+buildTree 14
+(3) (6) (6) (3) (7) (7) (6) (10) (1) (4) (8) (7) (3) (4) 
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (7)
+inorderTraversal
+kNearestNeighbour 6 (10)
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 6 (9)
+inorderTraversal
+kNearestNeighbour 10 (4)
+inorderTraversal
+kNearestNeighbour 8 (4)
+inorderTraversal
+remove (9)
+inorderTraversal
+insert (9)
+inorderTraversal
+kNearestNeighbour 1 (6)
+inorderTraversal
+insert (2)
+inorderTraversal
+insert (10)
+inorderTraversal
+kNearestNeighbour 3 (3)
+inorderTraversal
+insert (7)
+inorderTraversal
+insert (9)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (8)
+inorderTraversal
+kNearestNeighbour 10 (2)
+inorderTraversal
+insert (3)
+inorderTraversal
+insert (2)
+inorderTraversal
+nearestNeighbour (6)
+inorderTraversal
+kNearestNeighbour 8 (3)
+inorderTraversal
+remove (9)
+inorderTraversal
+search (9)
+inorderTraversal
+kNearestNeighbour 2 (3)
+inorderTraversal
+insert (9)
+inorderTraversal
+insert (6)
+inorderTraversal
+search (9)
+inorderTraversal
+insert (9)
+inorderTraversal
+remove (9)
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (10)
+inorderTraversal
+nearestNeighbour (9)
+inorderTraversal
+insert (1)
+inorderTraversal
+remove (9)
+inorderTraversal
+insert (7)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (1)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+remove (10)
+inorderTraversal
+insert (2)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+insert (7)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (8)
+inorderTraversal
+kNearestNeighbour 6 (5)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+remove (8)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 5 (9)
+inorderTraversal
+search (8)
+inorderTraversal
+remove (1)
+inorderTraversal
+insert (9)
+inorderTraversal
+kNearestNeighbour 10 (1)
+inorderTraversal
+kNearestNeighbour 1 (4)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+kNearestNeighbour 9 (7)
+inorderTraversal
+kNearestNeighbour 9 (7)
+inorderTraversal
+remove (6)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (6)
+inorderTraversal
+nearestNeighbour (9)
+inorderTraversal
+kNearestNeighbour 8 (3)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (10)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (4)
+inorderTraversal
+insert (5)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+insert (8)
+inorderTraversal
+remove (7)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+insert (8)
+inorderTraversal
+search (4)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+clear
+buildTree 1
+(2) 
+inorderTraversal
+kNearestNeighbour 5 (6)
+inorderTraversal
+kNearestNeighbour 6 (1)
+inorderTraversal
+insert (4)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+remove (4)
+inorderTraversal
+clear
+buildTree 8
+(3) (8) (5) (5) (1) (7) (4) (2) 
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 2 (6)
+inorderTraversal
+insert (4)
+inorderTraversal
+remove (5)
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (1)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+remove (4)
+inorderTraversal
+kNearestNeighbour 10 (5)
+inorderTraversal
+kNearestNeighbour 1 (8)
+inorderTraversal
+remove (5)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+kNearestNeighbour 7 (4)
+inorderTraversal
+insert (2)
+inorderTraversal
+kNearestNeighbour 10 (8)
+inorderTraversal
+insert (7)
+inorderTraversal
+kNearestNeighbour 4 (7)
+inorderTraversal
+insert (5)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+remove (7)
+inorderTraversal
+kNearestNeighbour 5 (5)
+inorderTraversal
+kNearestNeighbour 6 (5)
+inorderTraversal
+clear
+buildTree 9
+(4) (4) (9) (1) (9) (8) (3) (10) (2) 
+inorderTraversal
+kNearestNeighbour 2 (10)
+inorderTraversal
+kNearestNeighbour 10 (3)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (10)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 9 (6)
+inorderTraversal
+kNearestNeighbour 4 (10)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (9)
+inorderTraversal
+search (4)
+inorderTraversal
+kNearestNeighbour 5 (7)
+inorderTraversal
+kNearestNeighbour 7 (9)
+inorderTraversal
+clear
+buildTree 17
+(4) (6) (6) (1) (1) (5) (10) (5) (4) (2) (6) (10) (10) (5) (4) (4) (9) 
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+insert (7)
+inorderTraversal
+kNearestNeighbour 2 (3)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+remove (2)
+inorderTraversal
+search (10)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+kNearestNeighbour 4 (8)
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+insert (1)
+inorderTraversal
+insert (7)
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+insert (6)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+nearestNeighbour (3)
+inorderTraversal
+kNearestNeighbour 10 (5)
+inorderTraversal
+kNearestNeighbour 3 (4)
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+insert (2)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+kNearestNeighbour 4 (1)
+inorderTraversal
+insert (3)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+preorderTraversal
+postorderTraversal
+clear

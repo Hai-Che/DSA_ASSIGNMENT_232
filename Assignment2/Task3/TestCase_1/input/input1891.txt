@@ -1,0 +1,452 @@
+k=1
+insert (1)
+inorderTraversal
+remove (1)
+inorderTraversal
+clear
+buildTree 7
+(6) (5) (8) (3) (4) (2) (4) 
+inorderTraversal
+remove (4)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+search (4)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+insert (1)
+inorderTraversal
+clear
+buildTree 10
+(7) (6) (6) (3) (9) (1) (6) (10) (7) (10) 
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (4)
+inorderTraversal
+insert (10)
+inorderTraversal
+kNearestNeighbour 10 (4)
+inorderTraversal
+remove (6)
+inorderTraversal
+search (10)
+inorderTraversal
+insert (5)
+inorderTraversal
+remove (4)
+inorderTraversal
+kNearestNeighbour 10 (3)
+inorderTraversal
+clear
+buildTree 1
+(7) 
+inorderTraversal
+kNearestNeighbour 1 (2)
+inorderTraversal
+insert (4)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+kNearestNeighbour 9 (10)
+inorderTraversal
+kNearestNeighbour 4 (6)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+kNearestNeighbour 2 (5)
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+nearestNeighbour (6)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (2)
+inorderTraversal
+insert (6)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+clear
+buildTree 12
+(1) (6) (6) (10) (7) (4) (2) (3) (1) (7) (8) (3) 
+inorderTraversal
+insert (2)
+inorderTraversal
+insert (8)
+inorderTraversal
+remove (8)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+remove (6)
+inorderTraversal
+remove (8)
+inorderTraversal
+kNearestNeighbour 9 (8)
+inorderTraversal
+insert (7)
+inorderTraversal
+remove (5)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+clear
+buildTree 20
+(1) (1) (10) (10) (3) (1) (1) (1) (9) (1) (10) (9) (9) (3) (10) (7) (7) (1) (7) (5) 
+inorderTraversal
+nearestNeighbour (3)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+insert (9)
+inorderTraversal
+clear
+buildTree 18
+(3) (2) (4) (9) (6) (3) (3) (1) (1) (9) (3) (2) (1) (2) (10) (2) (4) (5) 
+inorderTraversal
+remove (9)
+inorderTraversal
+insert (2)
+inorderTraversal
+insert (2)
+inorderTraversal
+kNearestNeighbour 1 (10)
+inorderTraversal
+clear
+buildTree 11
+(10) (1) (9) (3) (3) (7) (6) (6) (2) (1) (5) 
+inorderTraversal
+insert (5)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+insert (10)
+inorderTraversal
+kNearestNeighbour 7 (10)
+inorderTraversal
+kNearestNeighbour 4 (10)
+inorderTraversal
+insert (4)
+inorderTraversal
+insert (10)
+inorderTraversal
+kNearestNeighbour 2 (9)
+inorderTraversal
+insert (2)
+inorderTraversal
+clear
+buildTree 1
+(4) 
+inorderTraversal
+nearestNeighbour (6)
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+insert (7)
+inorderTraversal
+remove (1)
+inorderTraversal
+remove (4)
+inorderTraversal
+insert (1)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+clear
+buildTree 16
+(7) (8) (9) (7) (2) (4) (2) (8) (7) (2) (6) (5) (2) (10) (10) (2) 
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+clear
+buildTree 1
+(6) 
+inorderTraversal
+preorderTraversal
+inorderTraversal
+kNearestNeighbour 10 (5)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+insert (9)
+inorderTraversal
+kNearestNeighbour 4 (3)
+inorderTraversal
+clear
+buildTree 5
+(4) (3) (7) (2) (5) 
+inorderTraversal
+remove (9)
+inorderTraversal
+insert (2)
+inorderTraversal
+kNearestNeighbour 2 (8)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (8)
+inorderTraversal
+remove (3)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+clear
+buildTree 18
+(8) (6) (4) (8) (3) (7) (7) (10) (6) (8) (9) (3) (8) (6) (9) (7) (6) (6) 
+inorderTraversal
+insert (6)
+inorderTraversal
+clear
+buildTree 12
+(10) (2) (6) (7) (1) (2) (2) (7) (1) (8) (1) (1) 
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 10 (5)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+kNearestNeighbour 9 (10)
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+remove (1)
+inorderTraversal
+remove (2)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+postorderTraversal
+inorderTraversal
+nearestNeighbour (2)
+inorderTraversal
+clear
+buildTree 20
+(9) (2) (3) (3) (5) (7) (7) (3) (4) (6) (9) (7) (1) (2) (3) (4) (8) (8) (10) (5) 
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (9)
+inorderTraversal
+kNearestNeighbour 2 (8)
+inorderTraversal
+insert (2)
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+kNearestNeighbour 8 (3)
+inorderTraversal
+insert (10)
+inorderTraversal
+insert (4)
+inorderTraversal
+insert (8)
+inorderTraversal
+kNearestNeighbour 4 (2)
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (5)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+search (8)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+remove (7)
+inorderTraversal
+nearestNeighbour (9)
+inorderTraversal
+clear
+buildTree 10
+(10) (2) (4) (6) (5) (7) (4) (9) (6) (5) 
+inorderTraversal
+search (4)
+inorderTraversal
+insert (8)
+inorderTraversal
+insert (5)
+inorderTraversal
+insert (3)
+inorderTraversal
+kNearestNeighbour 2 (7)
+inorderTraversal
+kNearestNeighbour 9 (5)
+inorderTraversal
+clear
+buildTree 8
+(8) (7) (4) (5) (10) (7) (3) (10) 
+inorderTraversal
+insert (5)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+insert (10)
+inorderTraversal
+clear
+buildTree 13
+(2) (6) (2) (10) (9) (2) (5) (5) (2) (7) (9) (3) (4) 
+inorderTraversal
+kNearestNeighbour 5 (3)
+inorderTraversal
+insert (9)
+inorderTraversal
+insert (10)
+inorderTraversal
+nearestNeighbour (10)
+inorderTraversal
+clear
+buildTree 1
+(7) 
+inorderTraversal
+insert (3)
+inorderTraversal
+insert (7)
+inorderTraversal
+insert (7)
+inorderTraversal
+kNearestNeighbour 5 (6)
+inorderTraversal
+kNearestNeighbour 1 (1)
+inorderTraversal
+kNearestNeighbour 7 (8)
+inorderTraversal
+clear
+buildTree 1
+(6) 
+inorderTraversal
+insert (2)
+inorderTraversal
+insert (8)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+nearestNeighbour (8)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+remove (2)
+inorderTraversal
+remove (6)
+inorderTraversal
+insert (3)
+inorderTraversal
+insert (9)
+inorderTraversal
+remove (6)
+inorderTraversal
+remove (8)
+inorderTraversal
+search (2)
+inorderTraversal
+kNearestNeighbour 2 (2)
+inorderTraversal
+search (9)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+kNearestNeighbour 2 (5)
+inorderTraversal
+insert (6)
+inorderTraversal
+kNearestNeighbour 1 (2)
+inorderTraversal
+clear
+buildTree 17
+(3) (5) (1) (7) (3) (2) (10) (8) (9) (3) (5) (7) (6) (6) (4) (2) (8) 
+inorderTraversal
+remove (3)
+inorderTraversal
+insert (7)
+inorderTraversal
+nearestNeighbour (7)
+inorderTraversal
+nearestNeighbour (5)
+inorderTraversal
+insert (7)
+inorderTraversal
+preorderTraversal
+inorderTraversal
+nearestNeighbour (9)
+inorderTraversal
+remove (7)
+inorderTraversal
+postorderTraversal
+inorderTraversal
+insert (6)
+inorderTraversal
+kNearestNeighbour 6 (7)
+inorderTraversal
+kNearestNeighbour 3 (6)
+inorderTraversal
+insert (1)
+inorderTraversal
+insert (6)
+inorderTraversal
+insert (6)
+inorderTraversal
+remove (9)
+inorderTraversal
+kNearestNeighbour 8 (8)
+inorderTraversal
+kNearestNeighbour 6 (4)
+inorderTraversal
+kNearestNeighbour 4 (2)
+inorderTraversal
+nearestNeighbour (6)
+inorderTraversal
+clear
+buildTree 3
+(8) (1) (6) 
+inorderTraversal
+insert (2)
+inorderTraversal
+clear
+buildTree 7
+(3) (7) (6) (10) (3) (9) (9) 
+inorderTraversal
+clear
+buildTree 18
+(1) (10) (6) (9) (6) (7) (7) (3) (3) (7) (9) (8) (3) (2) (6) (2) (7) (7) 
+inorderTraversal
+remove (10)
+inorderTraversal
+remove (3)
+inorderTraversal
+nearestNeighbour (4)
+inorderTraversal
+nearestNeighbour (1)
+inorderTraversal
+remove (8)
+inorderTraversal
+insert (5)
+inorderTraversal
+kNearestNeighbour 2 (10)
+inorderTraversal
+insert (5)
+inorderTraversal
+insert (2)
+inorderTraversal
+nodeCount_height_leafCount
+inorderTraversal
+preorderTraversal
+postorderTraversal
+clear

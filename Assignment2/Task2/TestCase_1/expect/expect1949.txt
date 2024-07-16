@@ -1,0 +1,752 @@
+line 1: k=2
+line 2: kNearestNeighbour 8 (7,3)
+
+line 3: inorderTraversal
+
+line 4: nearestNeighbour (5,9)
+
+line 5: inorderTraversal
+
+line 6: kNearestNeighbour 3 (7,7)
+
+line 7: inorderTraversal
+
+line 8: search (8,3)
+FALSE
+line 9: inorderTraversal
+
+line 10: insert (9,7)
+line 11: inorderTraversal
+(9,7) 
+line 12: nearestNeighbour (4,2)
+(9,7) 
+line 13: inorderTraversal
+(9,7) 
+line 14: nearestNeighbour (8,2)
+(9,7) 
+line 15: inorderTraversal
+(9,7) 
+line 16: search (1,1)
+FALSE
+line 17: inorderTraversal
+(9,7) 
+line 18: clear
+line 19: buildTree 12
+(5,4) (2,3) (2,7) (6,9) (3,5) (5,2) (6,6) (1,1) (6,7) (4,5) (1,6) (10,6) 
+line 20: inorderTraversal
+(1,1) (2,3) (3,5) (1,6) (2,7) (4,5) (5,2) (5,4) (6,6) (6,7) (10,6) (6,9) 
+line 21: nearestNeighbour (6,8)
+(6,9) 
+line 22: inorderTraversal
+(1,1) (2,3) (3,5) (1,6) (2,7) (4,5) (5,2) (5,4) (6,6) (6,7) (10,6) (6,9) 
+line 23: nearestNeighbour (1,1)
+(1,1) 
+line 24: inorderTraversal
+(1,1) (2,3) (3,5) (1,6) (2,7) (4,5) (5,2) (5,4) (6,6) (6,7) (10,6) (6,9) 
+line 25: clear
+line 26: buildTree 3
+(1,4) (8,7) (3,3) 
+line 27: inorderTraversal
+(1,4) (3,3) (8,7) 
+line 28: postorderTraversal
+(1,4) (8,7) (3,3) 
+line 29: inorderTraversal
+(1,4) (3,3) (8,7) 
+line 30: clear
+line 31: buildTree 19
+(4,8) (6,10) (6,3) (2,1) (4,7) (3,5) (3,10) (1,1) (8,8) (8,1) (5,7) (8,1) (10,3) (10,4) (2,2) (2,8) (2,5) (7,7) (4,2) 
+line 32: inorderTraversal
+(1,1) (2,1) (2,2) (2,5) (2,8) (3,5) (3,10) (4,8) (4,2) (6,3) (8,1) (8,1) (10,3) (10,4) (4,7) (5,7) (6,10) (7,7) (8,8) 
+line 33: insert (4,2)
+line 34: inorderTraversal
+(1,1) (2,1) (2,2) (2,5) (2,8) (3,5) (3,10) (4,8) (4,2) (4,2) (6,3) (8,1) (8,1) (10,3) (10,4) (4,7) (5,7) (6,10) (7,7) (8,8) 
+line 35: preorderTraversal
+(4,8) (2,5) (2,1) (1,1) (2,2) (3,5) (2,8) (3,10) (10,4) (8,1) (4,2) (6,3) (4,2) (8,1) (10,3) (6,10) (4,7) (5,7) (7,7) (8,8) 
+line 36: inorderTraversal
+(1,1) (2,1) (2,2) (2,5) (2,8) (3,5) (3,10) (4,8) (4,2) (4,2) (6,3) (8,1) (8,1) (10,3) (10,4) (4,7) (5,7) (6,10) (7,7) (8,8) 
+line 37: insert (9,8)
+line 38: inorderTraversal
+(1,1) (2,1) (2,2) (2,5) (2,8) (3,5) (3,10) (4,8) (4,2) (4,2) (6,3) (8,1) (8,1) (10,3) (10,4) (4,7) (5,7) (6,10) (7,7) (8,8) (9,8) 
+line 39: insert (6,3)
+line 40: inorderTraversal
+(1,1) (2,1) (2,2) (2,5) (2,8) (3,5) (3,10) (4,8) (4,2) (4,2) (6,3) (6,3) (8,1) (8,1) (10,3) (10,4) (4,7) (5,7) (6,10) (7,7) (8,8) (9,8) 
+line 41: clear
+line 42: buildTree 1
+(2,8) 
+line 43: inorderTraversal
+(2,8) 
+line 44: search (2,8)
+TRUE
+line 45: inorderTraversal
+(2,8) 
+line 46: kNearestNeighbour 7 (10,4)
+(2,8) 
+line 47: inorderTraversal
+(2,8) 
+line 48: kNearestNeighbour 2 (1,2)
+(2,8) 
+line 49: inorderTraversal
+(2,8) 
+line 50: nearestNeighbour (10,5)
+(2,8) 
+line 51: inorderTraversal
+(2,8) 
+line 52: preorderTraversal
+(2,8) 
+line 53: inorderTraversal
+(2,8) 
+line 54: insert (5,8)
+line 55: inorderTraversal
+(2,8) (5,8) 
+line 56: preorderTraversal
+(2,8) (5,8) 
+line 57: inorderTraversal
+(2,8) (5,8) 
+line 58: clear
+line 59: buildTree 10
+(3,4) (8,4) (3,7) (7,10) (8,1) (9,4) (10,8) (5,8) (5,10) (1,6) 
+line 60: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 61: kNearestNeighbour 6 (5,3)
+(3,4) (3,7) (5,8) (8,1) (8,4) (9,4) 
+line 62: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 63: nodeCount_height_leafCount
+nodeCount=10;height=5;leafCount=5
+line 64: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 65: remove (6,2)
+line 66: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 67: nearestNeighbour (10,6)
+(10,8) 
+line 68: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 69: nearestNeighbour (8,10)
+(7,10) 
+line 70: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (7,10) (9,4) (10,8) 
+line 71: insert (5,10)
+line 72: inorderTraversal
+(3,4) (1,6) (3,7) (5,8) (8,1) (8,4) (5,10) (5,10) (7,10) (9,4) (10,8) 
+line 73: clear
+line 74: buildTree 17
+(10,2) (8,5) (8,7) (9,9) (8,4) (6,4) (6,10) (4,9) (4,4) (9,8) (8,1) (8,6) (1,9) (3,10) (9,3) (2,7) (3,8) 
+line 75: inorderTraversal
+(2,7) (4,4) (6,4) (3,8) (1,9) (3,10) (4,9) (6,10) (8,5) (8,1) (9,3) (10,2) (8,4) (8,6) (8,7) (9,8) (9,9) 
+line 76: clear
+line 77: buildTree 20
+(1,1) (8,6) (7,1) (9,5) (1,6) (4,5) (4,4) (6,10) (7,4) (8,6) (6,4) (3,10) (5,7) (10,8) (9,3) (8,9) (5,4) (4,5) (9,3) (1,1) 
+line 78: inorderTraversal
+(1,1) (1,1) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (8,6) (9,5) (8,6) (8,9) (10,8) 
+line 79: insert (4,8)
+line 80: inorderTraversal
+(1,1) (1,1) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (8,6) (9,5) (8,6) (8,9) (10,8) 
+line 81: insert (7,7)
+line 82: inorderTraversal
+(1,1) (1,1) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (10,8) 
+line 83: nearestNeighbour (2,2)
+(1,1) 
+line 84: inorderTraversal
+(1,1) (1,1) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (10,8) 
+line 85: insert (8,6)
+line 86: inorderTraversal
+(1,1) (1,1) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) 
+line 87: insert (5,2)
+line 88: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) 
+line 89: kNearestNeighbour 1 (8,3)
+(9,3) 
+line 90: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) 
+line 91: kNearestNeighbour 3 (9,2)
+(7,1) (9,3) (9,3) 
+line 92: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) 
+line 93: insert (10,8)
+line 94: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 95: preorderTraversal
+(6,10) (4,5) (1,1) (4,4) (1,1) (5,2) (5,4) (3,10) (1,6) (4,5) (5,7) (4,8) (6,4) (9,3) (7,1) (9,3) (8,6) (7,4) (7,7) (8,6) (9,5) (8,9) (10,8) (8,6) (10,8) 
+line 96: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (6,4) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 97: remove (6,4)
+line 98: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 99: insert (3,6)
+line 100: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (3,10) (4,5) (3,6) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 101: insert (1,10)
+line 102: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 103: nearestNeighbour (3,3)
+(4,4) 
+line 104: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 105: kNearestNeighbour 3 (8,7)
+(8,6) (8,6) (8,6) 
+line 106: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 107: insert (4,9)
+line 108: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (4,9) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 109: insert (6,9)
+line 110: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (4,9) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (6,9) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 111: insert (3,8)
+line 112: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (3,8) (4,9) (5,7) (6,10) (7,1) (9,3) (9,3) (7,4) (7,7) (6,9) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 113: insert (8,1)
+line 114: inorderTraversal
+(1,1) (1,1) (5,2) (4,4) (5,4) (4,5) (1,6) (1,10) (3,10) (4,5) (3,6) (4,8) (3,8) (4,9) (5,7) (6,10) (7,1) (8,1) (9,3) (9,3) (7,4) (7,7) (6,9) (8,6) (9,5) (8,6) (8,9) (8,6) (10,8) (10,8) 
+line 115: clear
+line 116: buildTree 10
+(4,8) (7,4) (8,4) (6,4) (6,4) (3,8) (4,1) (7,4) (2,3) (10,5) 
+line 117: inorderTraversal
+(4,1) (2,3) (3,8) (4,8) (6,4) (6,4) (7,4) (7,4) (8,4) (10,5) 
+line 118: insert (6,1)
+line 119: inorderTraversal
+(4,1) (2,3) (3,8) (4,8) (6,4) (6,1) (6,4) (7,4) (7,4) (8,4) (10,5) 
+line 120: clear
+line 121: buildTree 8
+(2,5) (7,2) (6,7) (4,5) (8,6) (7,8) (10,4) (10,8) 
+line 122: inorderTraversal
+(2,5) (4,5) (6,7) (7,2) (10,4) (8,6) (7,8) (10,8) 
+line 123: insert (2,3)
+line 124: inorderTraversal
+(2,3) (2,5) (4,5) (6,7) (7,2) (10,4) (8,6) (7,8) (10,8) 
+line 125: nearestNeighbour (7,2)
+(7,2) 
+line 126: inorderTraversal
+(2,3) (2,5) (4,5) (6,7) (7,2) (10,4) (8,6) (7,8) (10,8) 
+line 127: kNearestNeighbour 4 (7,8)
+(6,7) (7,8) (8,6) (10,8) 
+line 128: inorderTraversal
+(2,3) (2,5) (4,5) (6,7) (7,2) (10,4) (8,6) (7,8) (10,8) 
+line 129: insert (9,3)
+line 130: inorderTraversal
+(2,3) (2,5) (4,5) (6,7) (7,2) (9,3) (10,4) (8,6) (7,8) (10,8) 
+line 131: remove (5,3)
+line 132: inorderTraversal
+(2,3) (2,5) (4,5) (6,7) (7,2) (9,3) (10,4) (8,6) (7,8) (10,8) 
+line 133: insert (3,8)
+line 134: inorderTraversal
+(2,3) (2,5) (3,8) (4,5) (6,7) (7,2) (9,3) (10,4) (8,6) (7,8) (10,8) 
+line 135: remove (7,8)
+line 136: inorderTraversal
+(2,3) (2,5) (3,8) (4,5) (6,7) (7,2) (9,3) (10,4) (8,6) (10,8) 
+line 137: insert (10,5)
+line 138: inorderTraversal
+(2,3) (2,5) (3,8) (4,5) (6,7) (7,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 139: insert (9,2)
+line 140: inorderTraversal
+(2,3) (2,5) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 141: preorderTraversal
+(7,2) (2,5) (2,3) (4,5) (3,8) (6,7) (8,6) (10,4) (9,3) (9,2) (10,5) (10,8) 
+line 142: inorderTraversal
+(2,3) (2,5) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 143: insert (2,7)
+line 144: inorderTraversal
+(2,3) (2,5) (2,7) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 145: insert (2,3)
+line 146: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 147: insert (3,6)
+line 148: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,6) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 149: kNearestNeighbour 2 (3,8)
+(2,7) (3,8) 
+line 150: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,6) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 151: nearestNeighbour (6,5)
+(6,7) 
+line 152: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,6) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (10,5) (8,6) (10,8) 
+line 153: remove (10,5)
+line 154: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,6) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (8,6) (10,8) 
+line 155: nearestNeighbour (6,10)
+(6,7) 
+line 156: inorderTraversal
+(2,3) (2,3) (2,5) (2,7) (3,6) (3,8) (4,5) (6,7) (7,2) (9,2) (9,3) (10,4) (8,6) (10,8) 
+line 157: clear
+line 158: buildTree 2
+(6,2) (6,8) 
+line 159: inorderTraversal
+(6,2) (6,8) 
+line 160: nearestNeighbour (10,1)
+(6,2) 
+line 161: inorderTraversal
+(6,2) (6,8) 
+line 162: search (6,2)
+TRUE
+line 163: inorderTraversal
+(6,2) (6,8) 
+line 164: clear
+line 165: buildTree 4
+(6,1) (6,4) (3,5) (3,6) 
+line 166: inorderTraversal
+(3,5) (6,1) (6,4) (3,6) 
+line 167: nearestNeighbour (3,8)
+(3,6) 
+line 168: inorderTraversal
+(3,5) (6,1) (6,4) (3,6) 
+line 169: search (6,1)
+TRUE
+line 170: inorderTraversal
+(3,5) (6,1) (6,4) (3,6) 
+line 171: clear
+line 172: buildTree 9
+(5,1) (5,4) (10,6) (3,6) (4,4) (8,8) (5,8) (9,8) (3,4) 
+line 173: inorderTraversal
+(3,4) (3,6) (4,4) (5,1) (5,4) (10,6) (5,8) (8,8) (9,8) 
+line 174: insert (3,2)
+line 175: inorderTraversal
+(3,2) (3,4) (3,6) (4,4) (5,1) (5,4) (10,6) (5,8) (8,8) (9,8) 
+line 176: postorderTraversal
+(3,2) (4,4) (3,6) (3,4) (10,6) (5,4) (9,8) (8,8) (5,8) (5,1) 
+line 177: inorderTraversal
+(3,2) (3,4) (3,6) (4,4) (5,1) (5,4) (10,6) (5,8) (8,8) (9,8) 
+line 178: insert (1,10)
+line 179: inorderTraversal
+(3,2) (3,4) (1,10) (3,6) (4,4) (5,1) (5,4) (10,6) (5,8) (8,8) (9,8) 
+line 180: clear
+line 181: buildTree 17
+(7,6) (10,10) (2,1) (4,7) (8,6) (3,5) (3,6) (4,5) (8,3) (10,7) (5,5) (9,8) (1,6) (7,3) (5,1) (4,10) (2,1) 
+line 182: inorderTraversal
+(2,1) (2,1) (3,5) (1,6) (3,6) (4,5) (4,7) (4,10) (5,5) (5,1) (7,3) (8,3) (7,6) (8,6) (9,8) (10,7) (10,10) 
+line 183: insert (1,9)
+line 184: inorderTraversal
+(2,1) (2,1) (3,5) (1,6) (1,9) (3,6) (4,5) (4,7) (4,10) (5,5) (5,1) (7,3) (8,3) (7,6) (8,6) (9,8) (10,7) (10,10) 
+line 185: nearestNeighbour (2,10)
+(1,9) 
+line 186: inorderTraversal
+(2,1) (2,1) (3,5) (1,6) (1,9) (3,6) (4,5) (4,7) (4,10) (5,5) (5,1) (7,3) (8,3) (7,6) (8,6) (9,8) (10,7) (10,10) 
+line 187: insert (4,3)
+line 188: inorderTraversal
+(2,1) (2,1) (4,3) (3,5) (1,6) (1,9) (3,6) (4,5) (4,7) (4,10) (5,5) (5,1) (7,3) (8,3) (7,6) (8,6) (9,8) (10,7) (10,10) 
+line 189: nearestNeighbour (9,4)
+(8,3) 
+line 190: inorderTraversal
+(2,1) (2,1) (4,3) (3,5) (1,6) (1,9) (3,6) (4,5) (4,7) (4,10) (5,5) (5,1) (7,3) (8,3) (7,6) (8,6) (9,8) (10,7) (10,10) 
+line 191: clear
+line 192: buildTree 1
+(10,3) 
+line 193: inorderTraversal
+(10,3) 
+line 194: insert (9,5)
+line 195: inorderTraversal
+(9,5) (10,3) 
+line 196: nodeCount_height_leafCount
+nodeCount=2;height=2;leafCount=1
+line 197: inorderTraversal
+(9,5) (10,3) 
+line 198: nearestNeighbour (1,1)
+(9,5) 
+line 199: inorderTraversal
+(9,5) (10,3) 
+line 200: insert (6,2)
+line 201: inorderTraversal
+(6,2) (9,5) (10,3) 
+line 202: insert (1,3)
+line 203: inorderTraversal
+(1,3) (6,2) (9,5) (10,3) 
+line 204: nearestNeighbour (2,9)
+(1,3) 
+line 205: inorderTraversal
+(1,3) (6,2) (9,5) (10,3) 
+line 206: kNearestNeighbour 6 (10,5)
+(1,3) (6,2) (9,5) (10,3) 
+line 207: inorderTraversal
+(1,3) (6,2) (9,5) (10,3) 
+line 208: nearestNeighbour (1,2)
+(1,3) 
+line 209: inorderTraversal
+(1,3) (6,2) (9,5) (10,3) 
+line 210: nearestNeighbour (5,3)
+(6,2) 
+line 211: inorderTraversal
+(1,3) (6,2) (9,5) (10,3) 
+line 212: insert (8,7)
+line 213: inorderTraversal
+(1,3) (6,2) (9,5) (8,7) (10,3) 
+line 214: kNearestNeighbour 10 (9,5)
+(1,3) (6,2) (8,7) (9,5) (10,3) 
+line 215: inorderTraversal
+(1,3) (6,2) (9,5) (8,7) (10,3) 
+line 216: nearestNeighbour (1,3)
+(1,3) 
+line 217: inorderTraversal
+(1,3) (6,2) (9,5) (8,7) (10,3) 
+line 218: insert (3,1)
+line 219: inorderTraversal
+(3,1) (1,3) (6,2) (9,5) (8,7) (10,3) 
+line 220: insert (3,1)
+line 221: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (8,7) (10,3) 
+line 222: insert (5,8)
+line 223: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 224: nearestNeighbour (5,10)
+(5,8) 
+line 225: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 226: nearestNeighbour (7,8)
+(8,7) 
+line 227: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 228: kNearestNeighbour 5 (8,8)
+(5,8) (6,2) (8,7) (9,5) (10,3) 
+line 229: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 230: kNearestNeighbour 9 (1,3)
+(1,3) (3,1) (3,1) (5,8) (6,2) (8,7) (9,5) (10,3) 
+line 231: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 232: nearestNeighbour (3,9)
+(5,8) 
+line 233: inorderTraversal
+(3,1) (3,1) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 234: insert (1,3)
+line 235: inorderTraversal
+(3,1) (3,1) (1,3) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 236: nearestNeighbour (10,5)
+(9,5) 
+line 237: inorderTraversal
+(3,1) (3,1) (1,3) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 238: preorderTraversal
+(10,3) (9,5) (6,2) (1,3) (3,1) (3,1) (1,3) (8,7) (5,8) 
+line 239: inorderTraversal
+(3,1) (3,1) (1,3) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 240: nearestNeighbour (2,6)
+(1,3) 
+line 241: inorderTraversal
+(3,1) (3,1) (1,3) (1,3) (6,2) (9,5) (5,8) (8,7) (10,3) 
+line 242: clear
+line 243: buildTree 17
+(10,8) (6,9) (10,4) (4,3) (5,2) (9,9) (9,1) (8,7) (2,4) (8,2) (8,9) (7,8) (8,10) (7,2) (4,8) (8,8) (7,3) 
+line 244: inorderTraversal
+(5,2) (7,2) (4,3) (2,4) (4,8) (6,9) (7,3) (7,8) (8,7) (8,2) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 245: insert (6,9)
+line 246: inorderTraversal
+(5,2) (7,2) (4,3) (2,4) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 247: insert (2,7)
+line 248: inorderTraversal
+(5,2) (7,2) (4,3) (2,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 249: insert (8,3)
+line 250: inorderTraversal
+(5,2) (7,2) (4,3) (2,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 251: insert (6,1)
+line 252: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 253: insert (1,4)
+line 254: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 255: nearestNeighbour (5,4)
+(4,3) 
+line 256: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 257: nearestNeighbour (6,5)
+(7,3) 
+line 258: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 259: insert (4,4)
+line 260: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (4,4) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 261: nearestNeighbour (10,2)
+(9,1) 
+line 262: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (4,4) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 263: kNearestNeighbour 1 (3,5)
+(4,4) 
+line 264: inorderTraversal
+(5,2) (6,1) (7,2) (4,3) (2,4) (1,4) (2,7) (4,8) (4,4) (6,9) (7,3) (6,9) (7,8) (8,7) (8,2) (8,3) (9,1) (10,4) (8,8) (8,9) (10,8) (9,9) (8,10) 
+line 265: clear
+line 266: buildTree 14
+(10,6) (3,6) (7,4) (7,8) (3,5) (8,10) (4,10) (2,2) (8,10) (8,7) (4,3) (9,10) (8,10) (4,8) 
+line 267: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (8,7) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 268: search (9,10)
+TRUE
+line 269: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (8,7) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 270: remove (8,7)
+line 271: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 272: kNearestNeighbour 1 (2,9)
+(4,8) 
+line 273: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 274: preorderTraversal
+(7,4) (3,5) (2,2) (4,3) (4,8) (3,6) (4,10) (8,10) (10,6) (7,8) (8,10) (8,10) (9,10) 
+line 275: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 276: kNearestNeighbour 2 (6,5)
+(4,3) (7,4) 
+line 277: inorderTraversal
+(2,2) (4,3) (3,5) (3,6) (4,8) (4,10) (7,4) (7,8) (10,6) (8,10) (8,10) (8,10) (9,10) 
+line 278: clear
+line 279: buildTree 10
+(5,7) (7,1) (3,7) (9,4) (2,6) (4,1) (4,9) (5,1) (3,6) (3,1) 
+line 280: inorderTraversal
+(3,1) (2,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 281: kNearestNeighbour 6 (6,5)
+(3,6) (3,7) (5,1) (5,7) (7,1) (9,4) 
+line 282: inorderTraversal
+(3,1) (2,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 283: kNearestNeighbour 8 (9,9)
+(2,6) (3,6) (3,7) (4,9) (5,1) (5,7) (7,1) (9,4) 
+line 284: inorderTraversal
+(3,1) (2,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 285: insert (1,6)
+line 286: inorderTraversal
+(3,1) (2,6) (1,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 287: kNearestNeighbour 2 (10,2)
+(7,1) (9,4) 
+line 288: inorderTraversal
+(3,1) (2,6) (1,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 289: remove (10,5)
+line 290: inorderTraversal
+(3,1) (2,6) (1,6) (3,6) (3,7) (4,1) (5,1) (7,1) (9,4) (4,9) (5,7) 
+line 291: clear
+line 292: buildTree 3
+(7,7) (2,10) (9,4) 
+line 293: inorderTraversal
+(2,10) (7,7) (9,4) 
+line 294: kNearestNeighbour 10 (7,1)
+(2,10) (7,7) (9,4) 
+line 295: inorderTraversal
+(2,10) (7,7) (9,4) 
+line 296: insert (4,3)
+line 297: inorderTraversal
+(4,3) (2,10) (7,7) (9,4) 
+line 298: insert (6,7)
+line 299: inorderTraversal
+(4,3) (6,7) (2,10) (7,7) (9,4) 
+line 300: kNearestNeighbour 3 (10,10)
+(6,7) (7,7) (9,4) 
+line 301: inorderTraversal
+(4,3) (6,7) (2,10) (7,7) (9,4) 
+line 302: insert (10,4)
+line 303: inorderTraversal
+(4,3) (6,7) (2,10) (7,7) (9,4) (10,4) 
+line 304: clear
+line 305: buildTree 1
+(1,10) 
+line 306: inorderTraversal
+(1,10) 
+line 307: remove (1,10)
+line 308: inorderTraversal
+
+line 309: insert (6,9)
+line 310: inorderTraversal
+(6,9) 
+line 311: clear
+line 312: buildTree 2
+(6,2) (4,10) 
+line 313: inorderTraversal
+(4,10) (6,2) 
+line 314: remove (4,10)
+line 315: inorderTraversal
+(6,2) 
+line 316: insert (7,3)
+line 317: inorderTraversal
+(6,2) (7,3) 
+line 318: nearestNeighbour (4,4)
+(6,2) 
+line 319: inorderTraversal
+(6,2) (7,3) 
+line 320: insert (6,6)
+line 321: inorderTraversal
+(6,2) (7,3) (6,6) 
+line 322: nearestNeighbour (3,1)
+(6,2) 
+line 323: inorderTraversal
+(6,2) (7,3) (6,6) 
+line 324: kNearestNeighbour 8 (8,8)
+(6,2) (6,6) (7,3) 
+line 325: inorderTraversal
+(6,2) (7,3) (6,6) 
+line 326: insert (3,8)
+line 327: inorderTraversal
+(3,8) (6,2) (7,3) (6,6) 
+line 328: insert (9,4)
+line 329: inorderTraversal
+(3,8) (6,2) (7,3) (6,6) (9,4) 
+line 330: kNearestNeighbour 10 (2,2)
+(3,8) (6,2) (6,6) (7,3) (9,4) 
+line 331: inorderTraversal
+(3,8) (6,2) (7,3) (6,6) (9,4) 
+line 332: insert (4,10)
+line 333: inorderTraversal
+(3,8) (4,10) (6,2) (7,3) (6,6) (9,4) 
+line 334: kNearestNeighbour 4 (1,3)
+(3,8) (6,2) (6,6) (7,3) 
+line 335: inorderTraversal
+(3,8) (4,10) (6,2) (7,3) (6,6) (9,4) 
+line 336: nearestNeighbour (4,7)
+(3,8) 
+line 337: inorderTraversal
+(3,8) (4,10) (6,2) (7,3) (6,6) (9,4) 
+line 338: insert (3,6)
+line 339: inorderTraversal
+(3,6) (3,8) (4,10) (6,2) (7,3) (6,6) (9,4) 
+line 340: nearestNeighbour (9,2)
+(9,4) 
+line 341: inorderTraversal
+(3,6) (3,8) (4,10) (6,2) (7,3) (6,6) (9,4) 
+line 342: insert (7,3)
+line 343: inorderTraversal
+(3,6) (3,8) (4,10) (6,2) (7,3) (6,6) (7,3) (9,4) 
+line 344: nearestNeighbour (8,10)
+(4,10) 
+line 345: inorderTraversal
+(3,6) (3,8) (4,10) (6,2) (7,3) (6,6) (7,3) (9,4) 
+line 346: insert (1,8)
+line 347: inorderTraversal
+(3,6) (3,8) (1,8) (4,10) (6,2) (7,3) (6,6) (7,3) (9,4) 
+line 348: postorderTraversal
+(3,6) (1,8) (4,10) (3,8) (7,3) (9,4) (6,6) (7,3) (6,2) 
+line 349: inorderTraversal
+(3,6) (3,8) (1,8) (4,10) (6,2) (7,3) (6,6) (7,3) (9,4) 
+line 350: insert (9,1)
+line 351: inorderTraversal
+(3,6) (3,8) (1,8) (4,10) (6,2) (9,1) (7,3) (6,6) (7,3) (9,4) 
+line 352: preorderTraversal
+(6,2) (3,8) (3,6) (4,10) (1,8) (7,3) (9,1) (6,6) (9,4) (7,3) 
+line 353: inorderTraversal
+(3,6) (3,8) (1,8) (4,10) (6,2) (9,1) (7,3) (6,6) (7,3) (9,4) 
+line 354: remove (6,2)
+line 355: inorderTraversal
+(3,6) (3,8) (1,8) (4,10) (6,6) (9,1) (7,3) (7,3) (9,4) 
+line 356: clear
+line 357: buildTree 3
+(4,8) (8,9) (2,10) 
+line 358: inorderTraversal
+(2,10) (4,8) (8,9) 
+line 359: nearestNeighbour (6,7)
+(4,8) 
+line 360: inorderTraversal
+(2,10) (4,8) (8,9) 
+line 361: kNearestNeighbour 5 (8,6)
+(2,10) (4,8) (8,9) 
+line 362: inorderTraversal
+(2,10) (4,8) (8,9) 
+line 363: insert (10,1)
+line 364: inorderTraversal
+(2,10) (4,8) (10,1) (8,9) 
+line 365: insert (8,4)
+line 366: inorderTraversal
+(2,10) (4,8) (8,4) (10,1) (8,9) 
+line 367: insert (8,6)
+line 368: inorderTraversal
+(2,10) (4,8) (8,4) (8,6) (10,1) (8,9) 
+line 369: postorderTraversal
+(2,10) (8,6) (8,4) (10,1) (8,9) (4,8) 
+line 370: inorderTraversal
+(2,10) (4,8) (8,4) (8,6) (10,1) (8,9) 
+line 371: nearestNeighbour (10,10)
+(8,9) 
+line 372: inorderTraversal
+(2,10) (4,8) (8,4) (8,6) (10,1) (8,9) 
+line 373: insert (5,7)
+line 374: inorderTraversal
+(2,10) (4,8) (8,4) (5,7) (8,6) (10,1) (8,9) 
+line 375: insert (4,4)
+line 376: inorderTraversal
+(2,10) (4,8) (8,4) (4,4) (5,7) (8,6) (10,1) (8,9) 
+line 377: remove (4,4)
+line 378: inorderTraversal
+(2,10) (4,8) (8,4) (5,7) (8,6) (10,1) (8,9) 
+line 379: nearestNeighbour (8,8)
+(8,9) 
+line 380: inorderTraversal
+(2,10) (4,8) (8,4) (5,7) (8,6) (10,1) (8,9) 
+line 381: insert (7,6)
+line 382: inorderTraversal
+(2,10) (4,8) (8,4) (7,6) (5,7) (8,6) (10,1) (8,9) 
+line 383: nearestNeighbour (3,2)
+(8,4) 
+line 384: inorderTraversal
+(2,10) (4,8) (8,4) (7,6) (5,7) (8,6) (10,1) (8,9) 
+line 385: insert (4,3)
+line 386: inorderTraversal
+(2,10) (4,8) (4,3) (8,4) (7,6) (5,7) (8,6) (10,1) (8,9) 
+line 387: kNearestNeighbour 2 (4,8)
+(4,8) (5,7) 
+line 388: inorderTraversal
+(2,10) (4,8) (4,3) (8,4) (7,6) (5,7) (8,6) (10,1) (8,9) 
+line 389: kNearestNeighbour 7 (2,10)
+(2,10) (4,3) (4,8) (5,7) (7,6) (8,6) (8,9) 
+line 390: inorderTraversal
+(2,10) (4,8) (4,3) (8,4) (7,6) (5,7) (8,6) (10,1) (8,9) 
+line 391: clear
+line 392: buildTree 11
+(9,2) (5,5) (6,9) (2,5) (5,8) (7,3) (5,6) (9,2) (2,3) (7,9) (5,5) 
+line 393: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (9,2) (5,5) (5,6) (5,8) (6,9) (7,9) 
+line 394: nearestNeighbour (4,1)
+(2,3) 
+line 395: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (9,2) (5,5) (5,6) (5,8) (6,9) (7,9) 
+line 396: insert (8,9)
+line 397: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (9,2) (5,5) (5,6) (5,8) (6,9) (7,9) (8,9) 
+line 398: remove (9,2)
+line 399: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (5,5) (5,6) (5,8) (6,9) (7,9) (8,9) 
+line 400: nearestNeighbour (9,6)
+(8,9) 
+line 401: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (5,5) (5,6) (5,8) (6,9) (7,9) (8,9) 
+line 402: remove (5,8)
+line 403: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (5,5) (5,6) (6,9) (7,9) (8,9) 
+line 404: kNearestNeighbour 8 (1,2)
+(2,3) (2,5) (5,5) (5,5) (5,6) (6,9) (7,3) (9,2) 
+line 405: inorderTraversal
+(2,3) (2,5) (5,5) (7,3) (9,2) (5,5) (5,6) (6,9) (7,9) (8,9) 
+line 406: clear
+line 407: buildTree 18
+(8,8) (9,9) (1,1) (1,7) (9,6) (10,3) (7,4) (6,8) (5,9) (7,5) (3,8) (1,6) (4,5) (4,10) (7,6) (7,6) (6,5) (10,5) 
+line 408: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (3,8) (4,10) (5,9) (6,8) (7,4) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 409: remove (3,8)
+line 410: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (4,10) (5,9) (6,8) (7,4) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 411: insert (8,1)
+line 412: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (4,10) (5,9) (6,8) (7,4) (8,1) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 413: insert (3,10)
+line 414: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (3,10) (4,10) (5,9) (6,8) (7,4) (8,1) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 415: nodeCount_height_leafCount
+nodeCount=19;height=5;leafCount=8
+line 416: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (3,10) (4,10) (5,9) (6,8) (7,4) (8,1) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 417: kNearestNeighbour 5 (6,6)
+(6,5) (6,8) (7,5) (7,6) (7,6) 
+line 418: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (3,10) (4,10) (5,9) (6,8) (7,4) (8,1) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 419: preorderTraversal
+(6,8) (1,7) (1,1) (4,5) (1,6) (4,10) (3,10) (5,9) (6,5) (7,4) (10,3) (8,1) (8,8) (7,6) (7,5) (7,6) (9,6) (10,5) (9,9) 
+line 420: inorderTraversal
+(1,1) (4,5) (1,6) (1,7) (3,10) (4,10) (5,9) (6,8) (7,4) (8,1) (10,3) (6,5) (7,5) (7,6) (7,6) (8,8) (10,5) (9,6) (9,9) 
+line 421: clear
+line 422: buildTree 3
+(8,2) (7,1) (2,8) 
+line 423: inorderTraversal
+(2,8) (7,1) (8,2) 
+line 424: nearestNeighbour (3,7)
+(2,8) 
+line 425: inorderTraversal
+(2,8) (7,1) (8,2) 
+line 426: nodeCount_height_leafCount
+nodeCount=3;height=2;leafCount=2
+line 427: inorderTraversal
+(2,8) (7,1) (8,2) 
+line 428: preorderTraversal
+(7,1) (2,8) (8,2) 
+line 429: postorderTraversal
+(2,8) (8,2) (7,1) 
+line 430: clear

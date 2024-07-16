@@ -1,0 +1,756 @@
+line 1: k=1
+line 2: insert (6)
+line 3: inorderTraversal
+(6) 
+line 4: insert (3)
+line 5: inorderTraversal
+(3) (6) 
+line 6: kNearestNeighbour 7 (6)
+(6)(3)
+line 7: inorderTraversal
+(3) (6) 
+line 8: remove (3)
+line 9: inorderTraversal
+(6) 
+line 10: search (3)
+FALSE
+line 11: inorderTraversal
+(6) 
+line 12: preorderTraversal
+(6) 
+line 13: inorderTraversal
+(6) 
+line 14: insert (3)
+line 15: inorderTraversal
+(3) (6) 
+line 16: clear
+line 17: buildTree 13
+(6) (2) (10) (9) (9) (1) (4) (2) (6) (2) (9) (6) (1) 
+line 18: inorderTraversal
+(1) (1) (2) (2) (2) (4) (6) (6) (6) (9) (9) (9) (10) 
+line 19: nearestNeighbour (5)
+(4)
+line 20: inorderTraversal
+(1) (1) (2) (2) (2) (4) (6) (6) (6) (9) (9) (9) (10) 
+line 21: insert (5)
+line 22: inorderTraversal
+(1) (1) (2) (2) (2) (4) (5) (6) (6) (6) (9) (9) (9) (10) 
+line 23: insert (2)
+line 24: inorderTraversal
+(1) (1) (2) (2) (2) (2) (4) (5) (6) (6) (6) (9) (9) (9) (10) 
+line 25: clear
+line 26: buildTree 19
+(8) (4) (4) (2) (7) (5) (5) (9) (3) (10) (1) (1) (10) (8) (9) (7) (10) (8) (10) 
+line 27: inorderTraversal
+(1) (1) (2) (3) (4) (4) (5) (5) (7) (7) (8) (8) (8) (9) (9) (10) (10) (10) (10) 
+line 28: kNearestNeighbour 7 (5)
+(5)(5)(4)(4)(3)(7)(7)
+line 29: inorderTraversal
+(1) (1) (2) (3) (4) (4) (5) (5) (7) (7) (8) (8) (8) (9) (9) (10) (10) (10) (10) 
+line 30: clear
+line 31: buildTree 14
+(10) (5) (10) (4) (2) (9) (2) (4) (7) (1) (2) (4) (6) (2) 
+line 32: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 33: preorderTraversal
+(4) (2) (1) (2) (2) (2) (6) (4) (4) (5) (9) (7) (10) (10) 
+line 34: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 35: preorderTraversal
+(4) (2) (1) (2) (2) (2) (6) (4) (4) (5) (9) (7) (10) (10) 
+line 36: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 37: kNearestNeighbour 10 (5)
+(5)(4)(4)(6)(4)(7)(2)(2)(2)(2)
+line 38: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 39: search (5)
+TRUE
+line 40: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 41: kNearestNeighbour 9 (9)
+(9)(10)(10)(7)(6)(5)(4)(4)(4)
+line 42: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (10) (10) 
+line 43: insert (9)
+line 44: inorderTraversal
+(1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) 
+line 45: insert (1)
+line 46: inorderTraversal
+(1) (1) (2) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) 
+line 47: remove (2)
+line 48: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) 
+line 49: preorderTraversal
+(4) (2) (1) (1) (2) (2) (6) (4) (4) (5) (9) (7) (10) (9) (10) 
+line 50: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) 
+line 51: postorderTraversal
+(1) (1) (2) (2) (2) (5) (4) (4) (7) (9) (10) (10) (9) (6) (4) 
+line 52: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) 
+line 53: insert (10)
+line 54: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) (10) 
+line 55: search (7)
+TRUE
+line 56: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) (10) 
+line 57: nearestNeighbour (5)
+(5)
+line 58: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (9) (9) (10) (10) (10) 
+line 59: insert (7)
+line 60: inorderTraversal
+(1) (1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (7) (9) (9) (10) (10) (10) 
+line 61: remove (1)
+line 62: inorderTraversal
+(1) (2) (2) (2) (4) (4) (4) (5) (6) (7) (7) (9) (9) (10) (10) (10) 
+line 63: clear
+line 64: buildTree 13
+(9) (8) (1) (6) (1) (1) (9) (5) (5) (6) (6) (9) (9) 
+line 65: inorderTraversal
+(1) (1) (1) (5) (5) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 66: insert (6)
+line 67: inorderTraversal
+(1) (1) (1) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 68: remove (1)
+line 69: inorderTraversal
+(1) (1) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 70: nearestNeighbour (8)
+(8)
+line 71: inorderTraversal
+(1) (1) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 72: nearestNeighbour (3)
+(5)
+line 73: inorderTraversal
+(1) (1) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 74: kNearestNeighbour 5 (9)
+(9)(9)(9)(9)(8)
+line 75: inorderTraversal
+(1) (1) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 76: insert (4)
+line 77: inorderTraversal
+(1) (1) (4) (5) (5) (6) (6) (6) (6) (8) (9) (9) (9) (9) 
+line 78: clear
+line 79: buildTree 19
+(1) (8) (3) (4) (2) (3) (4) (9) (10) (2) (6) (9) (10) (5) (8) (7) (10) (2) (2) 
+line 80: inorderTraversal
+(1) (2) (2) (2) (2) (3) (3) (4) (4) (5) (6) (7) (8) (8) (9) (9) (10) (10) (10) 
+line 81: insert (2)
+line 82: inorderTraversal
+(1) (2) (2) (2) (2) (2) (3) (3) (4) (4) (5) (6) (7) (8) (8) (9) (9) (10) (10) (10) 
+line 83: insert (10)
+line 84: inorderTraversal
+(1) (2) (2) (2) (2) (2) (3) (3) (4) (4) (5) (6) (7) (8) (8) (9) (9) (10) (10) (10) (10) 
+line 85: clear
+line 86: buildTree 10
+(1) (8) (9) (2) (5) (5) (6) (9) (5) (10) 
+line 87: inorderTraversal
+(1) (2) (5) (5) (5) (6) (8) (9) (9) (10) 
+line 88: insert (7)
+line 89: inorderTraversal
+(1) (2) (5) (5) (5) (6) (7) (8) (9) (9) (10) 
+line 90: nearestNeighbour (10)
+(10)
+line 91: inorderTraversal
+(1) (2) (5) (5) (5) (6) (7) (8) (9) (9) (10) 
+line 92: clear
+line 93: buildTree 17
+(2) (10) (4) (1) (10) (5) (6) (10) (4) (7) (4) (5) (1) (8) (2) (1) (5) 
+line 94: inorderTraversal
+(1) (1) (1) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (8) (10) (10) (10) 
+line 95: nearestNeighbour (4)
+(4)
+line 96: inorderTraversal
+(1) (1) (1) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (8) (10) (10) (10) 
+line 97: insert (2)
+line 98: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (8) (10) (10) (10) 
+line 99: insert (7)
+line 100: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (7) (8) (10) (10) (10) 
+line 101: nearestNeighbour (2)
+(2)
+line 102: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (7) (8) (10) (10) (10) 
+line 103: nearestNeighbour (4)
+(4)
+line 104: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (7) (7) (8) (10) (10) (10) 
+line 105: insert (6)
+line 106: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) 
+line 107: nearestNeighbour (9)
+(8)
+line 108: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) 
+line 109: kNearestNeighbour 5 (10)
+(10)(10)(10)(8)(7)
+line 110: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) 
+line 111: nearestNeighbour (10)
+(10)
+line 112: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) 
+line 113: insert (10)
+line 114: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) (10) 
+line 115: kNearestNeighbour 9 (2)
+(2)(2)(2)(1)(1)(1)(4)(4)(4)
+line 116: inorderTraversal
+(1) (1) (1) (2) (2) (2) (4) (4) (4) (5) (5) (5) (6) (6) (7) (7) (8) (10) (10) (10) (10) 
+line 117: clear
+line 118: buildTree 10
+(10) (9) (4) (5) (2) (2) (10) (8) (7) (4) 
+line 119: inorderTraversal
+(2) (2) (4) (4) (5) (7) (8) (9) (10) (10) 
+line 120: insert (5)
+line 121: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (9) (10) (10) 
+line 122: nearestNeighbour (5)
+(5)
+line 123: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (9) (10) (10) 
+line 124: insert (8)
+line 125: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) 
+line 126: nodeCount_height_leafCount
+nodeCount=12;height=5;leafCount=5
+line 127: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) 
+line 128: search (4)
+TRUE
+line 129: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) 
+line 130: insert (10)
+line 131: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) (10) 
+line 132: nearestNeighbour (9)
+(9)
+line 133: inorderTraversal
+(2) (2) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) (10) 
+line 134: insert (4)
+line 135: inorderTraversal
+(2) (2) (4) (4) (4) (5) (5) (7) (8) (8) (9) (10) (10) (10) 
+line 136: insert (7)
+line 137: inorderTraversal
+(2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) (10) 
+line 138: nearestNeighbour (5)
+(5)
+line 139: inorderTraversal
+(2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) (10) 
+line 140: postorderTraversal
+(2) (4) (4) (4) (2) (5) (7) (8) (8) (7) (10) (10) (10) (9) (5) 
+line 141: inorderTraversal
+(2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) (10) 
+line 142: insert (2)
+line 143: inorderTraversal
+(2) (2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) (10) 
+line 144: remove (10)
+line 145: inorderTraversal
+(2) (2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) 
+line 146: nearestNeighbour (7)
+(7)
+line 147: inorderTraversal
+(2) (2) (2) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) 
+line 148: insert (4)
+line 149: inorderTraversal
+(2) (2) (2) (4) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) 
+line 150: nearestNeighbour (10)
+(10)
+line 151: inorderTraversal
+(2) (2) (2) (4) (4) (4) (4) (5) (5) (7) (7) (8) (8) (9) (10) (10) 
+line 152: clear
+line 153: buildTree 4
+(3) (2) (8) (9) 
+line 154: inorderTraversal
+(2) (3) (8) (9) 
+line 155: nearestNeighbour (4)
+(3)
+line 156: inorderTraversal
+(2) (3) (8) (9) 
+line 157: preorderTraversal
+(3) (2) (8) (9) 
+line 158: inorderTraversal
+(2) (3) (8) (9) 
+line 159: remove (8)
+line 160: inorderTraversal
+(2) (3) (9) 
+line 161: search (9)
+TRUE
+line 162: inorderTraversal
+(2) (3) (9) 
+line 163: nearestNeighbour (3)
+(3)
+line 164: inorderTraversal
+(2) (3) (9) 
+line 165: kNearestNeighbour 7 (10)
+(9)(3)(2)
+line 166: inorderTraversal
+(2) (3) (9) 
+line 167: clear
+line 168: buildTree 10
+(3) (7) (7) (3) (9) (8) (2) (1) (6) (2) 
+line 169: inorderTraversal
+(1) (2) (2) (3) (3) (6) (7) (7) (8) (9) 
+line 170: nearestNeighbour (9)
+(9)
+line 171: inorderTraversal
+(1) (2) (2) (3) (3) (6) (7) (7) (8) (9) 
+line 172: clear
+line 173: buildTree 9
+(10) (5) (7) (9) (7) (3) (3) (1) (2) 
+line 174: inorderTraversal
+(1) (2) (3) (3) (5) (7) (7) (9) (10) 
+line 175: clear
+line 176: buildTree 12
+(2) (9) (5) (1) (3) (2) (5) (10) (10) (3) (10) (7) 
+line 177: inorderTraversal
+(1) (2) (2) (3) (3) (5) (5) (7) (9) (10) (10) (10) 
+line 178: nearestNeighbour (4)
+(3)
+line 179: inorderTraversal
+(1) (2) (2) (3) (3) (5) (5) (7) (9) (10) (10) (10) 
+line 180: clear
+line 181: buildTree 18
+(5) (2) (3) (9) (4) (8) (6) (3) (4) (7) (6) (6) (6) (9) (5) (3) (1) (8) 
+line 182: inorderTraversal
+(1) (2) (3) (3) (3) (4) (4) (5) (5) (6) (6) (6) (6) (7) (8) (8) (9) (9) 
+line 183: nearestNeighbour (9)
+(9)
+line 184: inorderTraversal
+(1) (2) (3) (3) (3) (4) (4) (5) (5) (6) (6) (6) (6) (7) (8) (8) (9) (9) 
+line 185: clear
+line 186: buildTree 10
+(4) (7) (2) (1) (4) (7) (3) (8) (4) (8) 
+line 187: inorderTraversal
+(1) (2) (3) (4) (4) (4) (7) (7) (8) (8) 
+line 188: kNearestNeighbour 4 (7)
+(7)(7)(8)(8)
+line 189: inorderTraversal
+(1) (2) (3) (4) (4) (4) (7) (7) (8) (8) 
+line 190: insert (6)
+line 191: inorderTraversal
+(1) (2) (3) (4) (4) (4) (6) (7) (7) (8) (8) 
+line 192: insert (6)
+line 193: inorderTraversal
+(1) (2) (3) (4) (4) (4) (6) (6) (7) (7) (8) (8) 
+line 194: insert (5)
+line 195: inorderTraversal
+(1) (2) (3) (4) (4) (4) (5) (6) (6) (7) (7) (8) (8) 
+line 196: clear
+line 197: buildTree 5
+(10) (2) (8) (3) (5) 
+line 198: inorderTraversal
+(2) (3) (5) (8) (10) 
+line 199: kNearestNeighbour 5 (5)
+(5)(3)(8)(2)(10)
+line 200: inorderTraversal
+(2) (3) (5) (8) (10) 
+line 201: insert (7)
+line 202: inorderTraversal
+(2) (3) (5) (7) (8) (10) 
+line 203: nearestNeighbour (8)
+(8)
+line 204: inorderTraversal
+(2) (3) (5) (7) (8) (10) 
+line 205: insert (4)
+line 206: inorderTraversal
+(2) (3) (4) (5) (7) (8) (10) 
+line 207: kNearestNeighbour 8 (2)
+(2)(3)(4)(5)(7)(8)(10)
+line 208: inorderTraversal
+(2) (3) (4) (5) (7) (8) (10) 
+line 209: clear
+line 210: buildTree 15
+(10) (4) (1) (10) (2) (2) (4) (8) (7) (2) (4) (5) (3) (7) (6) 
+line 211: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (7) (7) (8) (10) (10) 
+line 212: insert (1)
+line 213: inorderTraversal
+(1) (1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (7) (7) (8) (10) (10) 
+line 214: insert (5)
+line 215: inorderTraversal
+(1) (1) (2) (2) (2) (3) (4) (4) (4) (5) (5) (6) (7) (7) (8) (10) (10) 
+line 216: nearestNeighbour (1)
+(1)
+line 217: inorderTraversal
+(1) (1) (2) (2) (2) (3) (4) (4) (4) (5) (5) (6) (7) (7) (8) (10) (10) 
+line 218: clear
+line 219: buildTree 1
+(5) 
+line 220: inorderTraversal
+(5) 
+line 221: nearestNeighbour (1)
+(5)
+line 222: inorderTraversal
+(5) 
+line 223: insert (6)
+line 224: inorderTraversal
+(5) (6) 
+line 225: kNearestNeighbour 3 (5)
+(5)(6)
+line 226: inorderTraversal
+(5) (6) 
+line 227: kNearestNeighbour 3 (7)
+(6)(5)
+line 228: inorderTraversal
+(5) (6) 
+line 229: insert (5)
+line 230: inorderTraversal
+(5) (5) (6) 
+line 231: nearestNeighbour (5)
+(5)
+line 232: inorderTraversal
+(5) (5) (6) 
+line 233: nearestNeighbour (10)
+(6)
+line 234: inorderTraversal
+(5) (5) (6) 
+line 235: insert (6)
+line 236: inorderTraversal
+(5) (5) (6) (6) 
+line 237: insert (10)
+line 238: inorderTraversal
+(5) (5) (6) (6) (10) 
+line 239: kNearestNeighbour 7 (3)
+(5)(5)(6)(6)(10)
+line 240: inorderTraversal
+(5) (5) (6) (6) (10) 
+line 241: kNearestNeighbour 5 (5)
+(5)(5)(6)(6)(10)
+line 242: inorderTraversal
+(5) (5) (6) (6) (10) 
+line 243: nearestNeighbour (2)
+(5)
+line 244: inorderTraversal
+(5) (5) (6) (6) (10) 
+line 245: insert (9)
+line 246: inorderTraversal
+(5) (5) (6) (6) (9) (10) 
+line 247: kNearestNeighbour 4 (3)
+(5)(5)(6)(6)
+line 248: inorderTraversal
+(5) (5) (6) (6) (9) (10) 
+line 249: preorderTraversal
+(5) (6) (5) (6) (10) (9) 
+line 250: inorderTraversal
+(5) (5) (6) (6) (9) (10) 
+line 251: remove (6)
+line 252: inorderTraversal
+(5) (5) (6) (9) (10) 
+line 253: search (1)
+FALSE
+line 254: inorderTraversal
+(5) (5) (6) (9) (10) 
+line 255: remove (6)
+line 256: inorderTraversal
+(5) (5) (9) (10) 
+line 257: search (5)
+TRUE
+line 258: inorderTraversal
+(5) (5) (9) (10) 
+line 259: insert (8)
+line 260: inorderTraversal
+(5) (5) (8) (9) (10) 
+line 261: nearestNeighbour (9)
+(9)
+line 262: inorderTraversal
+(5) (5) (8) (9) (10) 
+line 263: insert (2)
+line 264: inorderTraversal
+(2) (5) (5) (8) (9) (10) 
+line 265: nearestNeighbour (2)
+(2)
+line 266: inorderTraversal
+(2) (5) (5) (8) (9) (10) 
+line 267: remove (3)
+line 268: inorderTraversal
+(2) (5) (5) (8) (9) (10) 
+line 269: insert (7)
+line 270: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 271: nearestNeighbour (4)
+(5)
+line 272: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 273: kNearestNeighbour 8 (4)
+(5)(5)(2)(7)(8)(9)(10)
+line 274: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 275: nearestNeighbour (8)
+(8)
+line 276: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 277: kNearestNeighbour 2 (6)
+(7)(5)
+line 278: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 279: kNearestNeighbour 4 (6)
+(7)(5)(5)(8)
+line 280: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 281: nearestNeighbour (1)
+(2)
+line 282: inorderTraversal
+(2) (5) (5) (7) (8) (9) (10) 
+line 283: remove (2)
+line 284: inorderTraversal
+(5) (5) (7) (8) (9) (10) 
+line 285: insert (5)
+line 286: inorderTraversal
+(5) (5) (5) (7) (8) (9) (10) 
+line 287: remove (8)
+line 288: inorderTraversal
+(5) (5) (5) (7) (9) (10) 
+line 289: remove (6)
+line 290: inorderTraversal
+(5) (5) (5) (7) (9) (10) 
+line 291: nearestNeighbour (3)
+(5)
+line 292: inorderTraversal
+(5) (5) (5) (7) (9) (10) 
+line 293: insert (6)
+line 294: inorderTraversal
+(5) (5) (5) (6) (7) (9) (10) 
+line 295: insert (5)
+line 296: inorderTraversal
+(5) (5) (5) (5) (6) (7) (9) (10) 
+line 297: insert (2)
+line 298: inorderTraversal
+(2) (5) (5) (5) (5) (6) (7) (9) (10) 
+line 299: remove (6)
+line 300: inorderTraversal
+(2) (5) (5) (5) (5) (7) (9) (10) 
+line 301: clear
+line 302: buildTree 19
+(6) (3) (2) (5) (1) (3) (10) (8) (5) (2) (10) (9) (10) (5) (3) (10) (10) (5) (5) 
+line 303: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 304: nearestNeighbour (5)
+(5)
+line 305: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 306: remove (10)
+line 307: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 308: nearestNeighbour (10)
+(10)
+line 309: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 310: nearestNeighbour (10)
+(10)
+line 311: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 312: preorderTraversal
+(5) (2) (1) (3) (2) (3) (3) (8) (5) (5) (5) (5) (6) (10) (9) (10) (10) (10) 
+line 313: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 314: kNearestNeighbour 8 (3)
+(3)(3)(3)(2)(2)(1)(5)(5)
+line 315: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 316: nearestNeighbour (1)
+(1)
+line 317: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 318: preorderTraversal
+(5) (2) (1) (3) (2) (3) (3) (8) (5) (5) (5) (5) (6) (10) (9) (10) (10) (10) 
+line 319: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) 
+line 320: insert (10)
+line 321: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 322: remove (2)
+line 323: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 324: nearestNeighbour (7)
+(6)
+line 325: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 326: kNearestNeighbour 5 (5)
+(5)(5)(5)(5)(5)
+line 327: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 328: insert (5)
+line 329: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 330: nearestNeighbour (1)
+(1)
+line 331: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 332: nearestNeighbour (1)
+(1)
+line 333: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 334: insert (5)
+line 335: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 336: kNearestNeighbour 10 (9)
+(9)(10)(10)(10)(10)(10)(8)(6)(5)(5)
+line 337: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 338: preorderTraversal
+(5) (2) (1) (3) (3) (3) (8) (5) (5) (5) (5) (6) (5) (5) (10) (9) (10) (10) (10) (10) 
+line 339: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 340: search (5)
+TRUE
+line 341: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 342: nearestNeighbour (1)
+(1)
+line 343: inorderTraversal
+(1) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 344: insert (2)
+line 345: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 346: kNearestNeighbour 2 (9)
+(9)(10)
+line 347: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 348: kNearestNeighbour 5 (1)
+(1)(2)(2)(3)(3)
+line 349: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 350: nearestNeighbour (1)
+(1)
+line 351: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (6) (8) (9) (10) (10) (10) (10) (10) 
+line 352: remove (6)
+line 353: inorderTraversal
+(1) (2) (2) (3) (3) (3) (5) (5) (5) (5) (5) (5) (5) (8) (9) (10) (10) (10) (10) (10) 
+line 354: clear
+line 355: buildTree 15
+(3) (4) (3) (2) (4) (1) (9) (6) (8) (6) (10) (9) (3) (3) (5) 
+line 356: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (9) (9) (10) 
+line 357: kNearestNeighbour 10 (8)
+(8)(9)(9)(6)(10)(6)(5)(4)(4)(3)
+line 358: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (9) (9) (10) 
+line 359: nearestNeighbour (1)
+(1)
+line 360: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (9) (9) (10) 
+line 361: insert (9)
+line 362: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (9) (9) (9) (10) 
+line 363: postorderTraversal
+(2) (1) (3) (3) (3) (3) (5) (4) (8) (6) (9) (10) (9) (9) (6) (4) 
+line 364: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (9) (9) (9) (10) 
+line 365: insert (8)
+line 366: inorderTraversal
+(1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (8) (9) (9) (9) (10) 
+line 367: insert (1)
+line 368: inorderTraversal
+(1) (1) (2) (3) (3) (3) (3) (4) (4) (5) (6) (6) (8) (8) (9) (9) (9) (10) 
+line 369: clear
+line 370: buildTree 5
+(9) (4) (3) (4) (2) 
+line 371: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 372: nearestNeighbour (1)
+(2)
+line 373: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 374: nearestNeighbour (10)
+(9)
+line 375: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 376: search (2)
+TRUE
+line 377: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 378: search (7)
+FALSE
+line 379: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 380: postorderTraversal
+(3) (2) (9) (4) (4) 
+line 381: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 382: nodeCount_height_leafCount
+nodeCount=5;height=3;leafCount=2
+line 383: inorderTraversal
+(2) (3) (4) (4) (9) 
+line 384: insert (3)
+line 385: inorderTraversal
+(2) (3) (3) (4) (4) (9) 
+line 386: nearestNeighbour (9)
+(9)
+line 387: inorderTraversal
+(2) (3) (3) (4) (4) (9) 
+line 388: clear
+line 389: buildTree 5
+(9) (10) (8) (7) (5) 
+line 390: inorderTraversal
+(5) (7) (8) (9) (10) 
+line 391: insert (4)
+line 392: inorderTraversal
+(4) (5) (7) (8) (9) (10) 
+line 393: insert (10)
+line 394: inorderTraversal
+(4) (5) (7) (8) (9) (10) (10) 
+line 395: clear
+line 396: buildTree 9
+(4) (2) (9) (4) (2) (10) (3) (5) (6) 
+line 397: inorderTraversal
+(2) (2) (3) (4) (4) (5) (6) (9) (10) 
+line 398: insert (1)
+line 399: inorderTraversal
+(1) (2) (2) (3) (4) (4) (5) (6) (9) (10) 
+line 400: insert (2)
+line 401: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (9) (10) 
+line 402: insert (8)
+line 403: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (8) (9) (10) 
+line 404: insert (8)
+line 405: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 406: kNearestNeighbour 8 (3)
+(3)(2)(2)(2)(4)(4)(1)(5)
+line 407: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 408: kNearestNeighbour 10 (2)
+(2)(2)(2)(3)(1)(4)(4)(5)(6)(8)
+line 409: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 410: kNearestNeighbour 7 (1)
+(1)(2)(2)(2)(3)(4)(4)
+line 411: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 412: insert (4)
+line 413: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 414: search (3)
+TRUE
+line 415: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 416: nearestNeighbour (5)
+(5)
+line 417: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 418: kNearestNeighbour 3 (1)
+(1)(2)(2)
+line 419: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 420: search (4)
+TRUE
+line 421: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (5) (6) (8) (8) (9) (10) 
+line 422: remove (5)
+line 423: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (6) (8) (8) (9) (10) 
+line 424: nodeCount_height_leafCount
+nodeCount=13;height=5;leafCount=5
+line 425: inorderTraversal
+(1) (2) (2) (2) (3) (4) (4) (4) (6) (8) (8) (9) (10) 
+line 426: preorderTraversal
+(4) (2) (1) (2) (3) (2) (6) (4) (4) (9) (8) (8) (10) 
+line 427: postorderTraversal
+(1) (2) (3) (2) (2) (4) (4) (8) (8) (10) (9) (6) (4) 
+line 428: clear
